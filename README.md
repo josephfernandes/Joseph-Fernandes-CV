@@ -1,4 +1,3 @@
-# Joseph-Fernandes-CV
 <!DOCTYPE HTML>
 <HTML>
 <body>
@@ -21,11 +20,11 @@ img{border-style: double;}
 <body> 
 
 
-<h1><img src="C:\Users\user\Downloads\IMG_6456 (1).jpg" width="200" height="250">JOSEPH MENINO FERNANDES<br>            
+<h1><img src="https://media-exp3.licdn.com/dms/image/C4E03AQEFs3YzxlM5Pg/profile-displayphoto-shrink_200_200/0/1616095210302?e=1629331200&v=beta&t=fQCWTHuefXR04S5roMibH6AlSQiMRG-sSyRDcjnZ35k" width="200" height="250"></a>JOSEPH MENINO FERNANDES<br>            
                                                  Email: Josephferns14@gmail.com <br>
                                              Phone no.: +44744015943/+447840001519<br>
-<a><href="linkedin.com/in/joseph-fernandes-14226a154">Linkedin</a>
-</h1><br>
+
+<a href="https://www.linkedin.com/in/joseph-fernandes-14226a154/">Linkedin</a></p></h1><br>
 <hr></hr>
 <h2>Personal Summary</h2>
 <p1>Over the years, I have developed an extensive skills base, and the attributes that describe me best are hardworking, responsible, and reliant, with a keen focus on detail. Recently, I have attained my certification as an AWS cloud practitioner. I have developed my skills in coding with Python, HTML5, CSS in tandem with the AWS re/Start programme.</p1><br>
@@ -143,3 +142,4 @@ Indian Certificate of Secondary Education<br>
 
 </body>
 </html>
+
